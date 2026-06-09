@@ -38,5 +38,4 @@ The goal of this utility is to detect and handle invalid audio inputs, including
 - Project report
 - Test cases
 
-## Author
-Your Name
+
